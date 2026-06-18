@@ -3,17 +3,13 @@ body{
 }
 
 h1{
-text-align: center;
+    text-align: center;
 }
-.img{
-    fotopistola-img {
-        width: 900px;
-        height: 400px;
-    
-}
-}
+
+
+
 h2{
-color: #d3055b;
-text-align: center;
+    color: #d3055b;
+    text-align: center;
 }
 
