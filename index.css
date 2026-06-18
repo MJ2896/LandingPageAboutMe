@@ -1,15 +1,30 @@
-body{
-    background-color: #a39661;
-}
-
+header{
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(160, 202, 202);}
+img{ align: right;}
 h1{
     text-align: center;
 }
 
 
+main{
+    background-color: #fef6d8;
+}
 
 h2{
     color: #d3055b;
     text-align: center;
 }
+
+footer {background-color: #f7c7db;}
+
+
+
+
+
+
+
+
+
 
